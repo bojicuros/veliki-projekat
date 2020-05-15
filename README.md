@@ -62,12 +62,12 @@ Na ovoj stranici posjetioci mogu da ostave njihove utiske o sajtu u vidu poruke,
 
 #### Napomene 
 
-> -Sajt ima responsibilan dizajn, te za svaku stranicu i članak prilažem tri slike koje predstavljaju prikaz sajta na računaru, tabletu i mobilnom telefonu. Takođe prilažem i slike koje prikazuje stranicu prilikom izvršavanja pretrage, kao i sliku 404 (stranica nije pronađenja) stranice.
+> -Sajt ima responsibilan dizajn, te za svaku stranicu i članak prilažem tri slike koje predstavljaju prikaz sajta na računaru, tabletu i mobilnom telefonu. Takođe prilažem i slike koje prikazuje stranicu prilikom izvršavanja pretrage, kao i sliku 404 (stranica nije pronađena) stranice.
 
 > -Projekat sam radio lokalno u Wordpress-u  koristeći XAMPP lokalni server.
 
 > -Na sajtu se nalazi logo, koji nas sa bilo koje stranice, jednim klikom, vodi na Početnu stranicu.
 
-> -Od dodatnih modula koristio sam: Elementor, All-in-One Addons for Elementor - WidgetKit, Starter Templates, WPForms Lite, AccessPress Social Share i Smush. Prva tri modula koristio sam za građenje sajta i za poboljšavanje dizajna, WPForms Lite koristio sam za kreiranje formulara, a AccessPress Social Share sam koristio radi omogućavanja dijeljenje sadržaja na društvenim mrežama. Smush sam koristio zato što su mi slike dosta visoke rezolucije, on omogućava prilično brzo učitavanje stranica i sa slikama veoma visoke rezolucije.
+> -Od dodatnih modula koristio sam: Elementor, All-in-One Addons for Elementor - WidgetKit, Starter Templates, WPForms Lite, AccessPress Social Share i Smush. Prva tri modula koristio sam za građenje sajta i za poboljšavanje dizajna, WPForms Lite koristio sam za kreiranje formulara, AccessPress Social Share sam koristio radi omogućavanja dijeljenje sadržaja na društvenim mrežama, dok sam Smush sam koristio zato što su mi slike dosta visoke rezolucije, on omogućava prilično brzo učitavanje stranica i sa slikama veoma visoke rezolucije.
 
-> -Pored dijeljenje sadržaja na društvenim mrežama, na sajtu se nalazi još jedna funkcionalnost društvenih mreža. Na stranici Novosti, kao i na svakom članku, u glavnom slajdbaru se nalaze tvitovi Nacionalnog Centra za Biotehnološke Informacije (NCBI). Na sajtu se takođe nalazi video zapis, na stranici Nukleinski BLAST koji služi kao upustvo za korišćenje ove vrste BLAST-a.
+> -Pored dijeljenje sadržaja na društvenim mrežama, na sajtu se nalazi još jedna funkcionalnost društvenih mreža. Na stranici Novosti, kao i na svakom članku, u glavnom slajdbaru se nalaze tvitovi Nacionalnog Centra za Biotehnološke Informacije (NCBI).
